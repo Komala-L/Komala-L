@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Komala-L&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Komala-L&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Komala-L&icon=5&color=blue)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
