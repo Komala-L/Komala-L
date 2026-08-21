@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🚀 Aspiring Full Stack Developer passionate about building scalable, user-friendly, and real-world applications.  
-🎓 BCA student focused on strengthening Data Structures & Algorithms, Computer Science fundamentals, and software development skills.  
+🎓 BCA student focused on strengthening Data Structures & Algorithms, Computer Science fundamentals, and software development        skills.  
 💻 Experienced in building frontend and backend applications using the MERN stack and modern web technologies.  
 🔐 Interested in backend development, authentication systems, REST APIs, database design, and system design.  
 🧠 Currently improving problem-solving skills through DSA and building projects to gain hands-on engineering experience.  
